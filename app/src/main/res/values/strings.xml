@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TestQuestionOne</string>
+    <string name="welcome">WELCOME</string>
+    <string name="buyer_seller">Buyer/Seller</string>
+    <string name="carrier">Carrier</string>
+    <string name="facebook_app_id">2001911853371154</string>
+    <string name="fb_login_protocol_scheme">fb2001911853371154</string>
+    <string name="register">Register</string>
+    <string name="continue_with_google">Continue with Google</string>
+    <string name="sign_in">Sign In</string>
+    <string name="continue_with_twitter">Continue with Twitter</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="CONSUMER_KEY">q8tvd5hzMZi1OSmyzy8fKZEzT</string>
+    <string name="CONSUMER_SECRET">zF6xJXmRmwh5nFrrrCGaFJBOy4kobryPx4Pd8HFcCMX7aNMq3k</string>
+</resources>
